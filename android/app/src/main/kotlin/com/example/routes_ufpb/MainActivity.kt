@@ -1,4 +1,4 @@
-package com.example.routes_ufpb
+package com.ufpb.routes_ufpb
 
 import io.flutter.embedding.android.FlutterActivity
 
